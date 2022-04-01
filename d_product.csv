@@ -1,0 +1,607 @@
+ProductKey;ProductSubcategoryKey;ProductName;Color;ListPrice;Size;SizeRange;ProductLine;DealerPrice;Class;Style;ModelName;Status
+1;;Adjustable Race;NA;;;NA;;;;;;Current
+2;;Bearing Ball;NA;;;NA;;;;;;Current
+12;;Crown Race;NA;;;NA;;;;;;Current
+14;;Decal 1;NA;;;NA;;;;;;Current
+15;;Decal 2;NA;;;NA;;;;;;Current
+22;;Flat Washer 1;NA;;;NA;;;;;;Current
+23;;Flat Washer 6;NA;;;NA;;;;;;Current
+24;;Flat Washer 2;NA;;;NA;;;;;;Current
+25;;Flat Washer 9;NA;;;NA;;;;;;Current
+26;;Flat Washer 4;NA;;;NA;;;;;;Current
+27;;Flat Washer 3;NA;;;NA;;;;;;Current
+28;;Flat Washer 8;NA;;;NA;;;;;;Current
+29;;Flat Washer 5;NA;;;NA;;;;;;Current
+30;;Flat Washer 7;NA;;;NA;;;;;;Current
+38;;Thin-Jam Hex Nut 9;NA;;;NA;;;;;;Current
+39;;Thin-Jam Hex Nut 10;NA;;;NA;;;;;;Current
+40;;Thin-Jam Hex Nut 1;NA;;;NA;;;;;;Current
+41;;Thin-Jam Hex Nut 2;NA;;;NA;;;;;;Current
+42;;Thin-Jam Hex Nut 15;NA;;;NA;;;;;;Current
+43;;Thin-Jam Hex Nut 16;NA;;;NA;;;;;;Current
+44;;Thin-Jam Hex Nut 5;NA;;;NA;;;;;;Current
+45;;Thin-Jam Hex Nut 6;NA;;;NA;;;;;;Current
+46;;Thin-Jam Hex Nut 3;NA;;;NA;;;;;;Current
+47;;Thin-Jam Hex Nut 4;NA;;;NA;;;;;;Current
+48;;Thin-Jam Hex Nut 13;NA;;;NA;;;;;;Current
+49;;Thin-Jam Hex Nut 14;NA;;;NA;;;;;;Current
+50;;Thin-Jam Hex Nut 7;NA;;;NA;;;;;;Current
+51;;Thin-Jam Hex Nut 8;NA;;;NA;;;;;;Current
+52;;Thin-Jam Hex Nut 12;NA;;;NA;;;;;;Current
+53;;Thin-Jam Hex Nut 11;NA;;;NA;;;;;;Current
+54;;Hex Nut 5;NA;;;NA;;;;;;Current
+55;;Hex Nut 6;NA;;;NA;;;;;;Current
+56;;Hex Nut 16;NA;;;NA;;;;;;Current
+57;;Hex Nut 17;NA;;;NA;;;;;;Current
+58;;Hex Nut 7;NA;;;NA;;;;;;Current
+59;;Hex Nut 8;NA;;;NA;;;;;;Current
+60;;Hex Nut 9;NA;;;NA;;;;;;Current
+61;;Hex Nut 22;NA;;;NA;;;;;;Current
+62;;Hex Nut 23;NA;;;NA;;;;;;Current
+63;;Hex Nut 12;NA;;;NA;;;;;;Current
+64;;Hex Nut 13;NA;;;NA;;;;;;Current
+65;;Hex Nut 1;NA;;;NA;;;;;;Current
+66;;Hex Nut 10;NA;;;NA;;;;;;Current
+67;;Hex Nut 11;NA;;;NA;;;;;;Current
+68;;Hex Nut 2;NA;;;NA;;;;;;Current
+69;;Hex Nut 20;NA;;;NA;;;;;;Current
+70;;Hex Nut 21;NA;;;NA;;;;;;Current
+71;;Hex Nut 3;NA;;;NA;;;;;;Current
+72;;Hex Nut 14;NA;;;NA;;;;;;Current
+73;;Hex Nut 15;NA;;;NA;;;;;;Current
+74;;Hex Nut 4;NA;;;NA;;;;;;Current
+75;;Hex Nut 18;NA;;;NA;;;;;;Current
+76;;Hex Nut 19;NA;;;NA;;;;;;Current
+81;;Keyed Washer;NA;;;NA;;;;;;Current
+82;;External Lock Washer 3;NA;;;NA;;;;;;Current
+83;;External Lock Washer 4;NA;;;NA;;;;;;Current
+84;;External Lock Washer 9;NA;;;NA;;;;;;Current
+85;;External Lock Washer 5;NA;;;NA;;;;;;Current
+86;;External Lock Washer 7;NA;;;NA;;;;;;Current
+87;;External Lock Washer 6;NA;;;NA;;;;;;Current
+88;;External Lock Washer 1;NA;;;NA;;;;;;Current
+89;;External Lock Washer 8;NA;;;NA;;;;;;Current
+90;;External Lock Washer 2;NA;;;NA;;;;;;Current
+91;;Internal Lock Washer 3;NA;;;NA;;;;;;Current
+92;;Internal Lock Washer 4;NA;;;NA;;;;;;Current
+93;;Internal Lock Washer 9;NA;;;NA;;;;;;Current
+94;;Internal Lock Washer 5;NA;;;NA;;;;;;Current
+95;;Internal Lock Washer 7;NA;;;NA;;;;;;Current
+96;;Internal Lock Washer 6;NA;;;NA;;;;;;Current
+97;;Internal Lock Washer 10;NA;;;NA;;;;;;Current
+98;;Internal Lock Washer 1;NA;;;NA;;;;;;Current
+99;;Internal Lock Washer 8;NA;;;NA;;;;;;Current
+100;;Internal Lock Washer 2;NA;;;NA;;;;;;Current
+101;;Thin-Jam Lock Nut 9;NA;;;NA;;;;;;Current
+102;;Thin-Jam Lock Nut 10;NA;;;NA;;;;;;Current
+103;;Thin-Jam Lock Nut 1;NA;;;NA;;;;;;Current
+104;;Thin-Jam Lock Nut 2;NA;;;NA;;;;;;Current
+105;;Thin-Jam Lock Nut 15;NA;;;NA;;;;;;Current
+106;;Thin-Jam Lock Nut 16;NA;;;NA;;;;;;Current
+107;;Thin-Jam Lock Nut 5;NA;;;NA;;;;;;Current
+108;;Thin-Jam Lock Nut 6;NA;;;NA;;;;;;Current
+109;;Thin-Jam Lock Nut 3;NA;;;NA;;;;;;Current
+110;;Thin-Jam Lock Nut 4;NA;;;NA;;;;;;Current
+111;;Thin-Jam Lock Nut 13;NA;;;NA;;;;;;Current
+112;;Thin-Jam Lock Nut 14;NA;;;NA;;;;;;Current
+113;;Thin-Jam Lock Nut 7;NA;;;NA;;;;;;Current
+114;;Thin-Jam Lock Nut 8;NA;;;NA;;;;;;Current
+115;;Thin-Jam Lock Nut 12;NA;;;NA;;;;;;Current
+116;;Thin-Jam Lock Nut 11;NA;;;NA;;;;;;Current
+117;;Lock Nut 5;NA;;;NA;;;;;;Current
+118;;Lock Nut 6;NA;;;NA;;;;;;Current
+119;;Lock Nut 16;NA;;;NA;;;;;;Current
+120;;Lock Nut 17;NA;;;NA;;;;;;Current
+121;;Lock Nut 7;NA;;;NA;;;;;;Current
+122;;Lock Nut 8;NA;;;NA;;;;;;Current
+123;;Lock Nut 9;NA;;;NA;;;;;;Current
+124;;Lock Nut 22;NA;;;NA;;;;;;Current
+125;;Lock Nut 23;NA;;;NA;;;;;;Current
+126;;Lock Nut 12;NA;;;NA;;;;;;Current
+127;;Lock Nut 13;NA;;;NA;;;;;;Current
+128;;Lock Nut 1;NA;;;NA;;;;;;Current
+129;;Lock Nut 10;NA;;;NA;;;;;;Current
+130;;Lock Nut 11;NA;;;NA;;;;;;Current
+131;;Lock Nut 2;NA;;;NA;;;;;;Current
+132;;Lock Nut 20;NA;;;NA;;;;;;Current
+133;;Lock Nut 21;NA;;;NA;;;;;;Current
+134;;Lock Nut 3;NA;;;NA;;;;;;Current
+135;;Lock Nut 14;NA;;;NA;;;;;;Current
+136;;Lock Nut 15;NA;;;NA;;;;;;Current
+137;;Lock Nut 4;NA;;;NA;;;;;;Current
+138;;Lock Nut 19;NA;;;NA;;;;;;Current
+139;;Lock Nut 18;NA;;;NA;;;;;;Current
+141;;Lower Head Race;NA;;;NA;;;;;;Current
+142;;Lock Washer 4;NA;;;NA;;;;;;Current
+143;;Lock Washer 5;NA;;;NA;;;;;;Current
+144;;Lock Washer 10;NA;;;NA;;;;;;Current
+145;;Lock Washer 6;NA;;;NA;;;;;;Current
+146;;Lock Washer 13;NA;;;NA;;;;;;Current
+147;;Lock Washer 8;NA;;;NA;;;;;;Current
+148;;Lock Washer 1;NA;;;NA;;;;;;Current
+149;;Lock Washer 7;NA;;;NA;;;;;;Current
+150;;Lock Washer 12;NA;;;NA;;;;;;Current
+151;;Lock Washer 2;NA;;;NA;;;;;;Current
+152;;Lock Washer 9;NA;;;NA;;;;;;Current
+153;;Lock Washer 3;NA;;;NA;;;;;;Current
+154;;Lock Washer 11;NA;;;NA;;;;;;Current
+155;;Metal Angle;NA;;;NA;;;;;;Current
+156;;Metal Bar 1;NA;;;NA;;;;;;Current
+157;;Metal Bar 2;NA;;;NA;;;;;;Current
+158;;Metal Plate 2;NA;;;NA;;;;;;Current
+159;;Metal Plate 1;NA;;;NA;;;;;;Current
+160;;Metal Plate 3;NA;;;NA;;;;;;Current
+161;;Metal Sheet 2;NA;;;NA;;;;;;Current
+162;;Metal Sheet 3;NA;;;NA;;;;;;Current
+163;;Metal Sheet 7;NA;;;NA;;;;;;Current
+164;;Metal Sheet 4;NA;;;NA;;;;;;Current
+165;;Metal Sheet 5;NA;;;NA;;;;;;Current
+166;;Metal Sheet 6;NA;;;NA;;;;;;Current
+167;;Metal Sheet 1;NA;;;NA;;;;;;Current
+168;;Metal Tread Plate;NA;;;NA;;;;;;Current
+170;;HL Nipple;NA;;;NA;;;;;;Current
+176;;Pinch Bolt;NA;;;NA;;;;;;Current
+177;;Cup-Shaped Race;NA;;;NA;;;;;;Current
+178;;Cone-Shaped Race;NA;;;NA;;;;;;Current
+179;;Reflector;NA;;;NA;;;;;;Current
+200;;Spokes;NA;;;NA;;;;;;Current
+201;;Seat Lug;NA;;;NA;;;;;;Current
+13;;Chain Stays;NA;;;NA;;;;;;Current
+17;;Mountain End Caps;NA;;;NA;;;;;;Current
+18;;Road End Caps;NA;;;NA;;;;;;Current
+19;;Touring End Caps;NA;;;NA;;;;;;Current
+169;;LL Nipple;NA;;;NA;;;L;;;Current
+3;;BB Ball Bearing;NA;;;NA;;;;;;Current
+4;;Headset Ball Bearings;NA;;;NA;;;;;;Current
+5;;Blade;NA;;;NA;;;;;;Current
+16;;Down Tube;NA;;;NA;;;;;;Current
+20;;Fork End;NA;;;NA;;;;;;Current
+31;;Fork Crown;NA;;;NA;;;;;;Current
+34;;Guide Pulley;NA;;;NA;;;;;;Current
+35;;LL Grip Tape;NA;;;NA;;;L;;;Current
+36;;ML Grip Tape;NA;;;NA;;;M;;;Current
+37;;HL Grip Tape;NA;;;NA;;;;;;Current
+77;;Handlebar Tube;NA;;;NA;;;;;;Current
+78;;Head Tube;NA;;;NA;;;;;;Current
+79;;LL Hub;NA;;;NA;;;L;;;Current
+80;;HL Hub;NA;;;NA;;;;;;Current
+171;;Paint - Black;NA;;;NA;;;;;;Current
+172;;Paint - Red;NA;;;NA;;;;;;Current
+173;;Paint - Silver;NA;;;NA;;;;;;Current
+174;;Paint - Blue;NA;;;NA;;;;;;Current
+175;;Paint - Yellow;NA;;;NA;;;;;;Current
+187;;LL Mountain Seat Assembly;NA;;;NA;;;L;;;Current
+188;;ML Mountain Seat Assembly;NA;;;NA;;;M;;;Current
+189;;HL Mountain Seat Assembly;NA;;;NA;;;;;;Current
+190;;LL Road Seat Assembly;NA;;;NA;;;L;;;Current
+191;;ML Road Seat Assembly;NA;;;NA;;;M;;;Current
+192;;HL Road Seat Assembly;NA;;;NA;;;;;;Current
+193;;LL Touring Seat Assembly;NA;;;NA;;;L;;;Current
+194;;ML Touring Seat Assembly;NA;;;NA;;;M;;;Current
+195;;HL Touring Seat Assembly;NA;;;NA;;;;;;Current
+196;;LL Spindle/Axle;NA;;;NA;;;L;;;Current
+197;;HL Spindle/Axle;NA;;;NA;;;;;;Current
+198;;LL Shell;NA;;;NA;;;L;;;Current
+199;;HL Shell;NA;;;NA;;;;;;Current
+202;;Stem;NA;;;NA;;;;;;Current
+203;;Seat Post;NA;;;NA;;;;;;Current
+204;;Steerer;NA;;;NA;;;;;;Current
+205;;Seat Stays;NA;;;NA;;;;;;Current
+206;;Seat Tube;NA;;;NA;;;;;;Current
+207;;Top Tube;NA;;;NA;;;;;;Current
+208;;Tension Pulley;NA;;;NA;;;;;;Current
+6;;LL Crankarm;Black;;;NA;;;L;;;Current
+7;;ML Crankarm;Black;;;NA;;;M;;;Current
+8;;HL Crankarm;Black;;;NA;;;;;;Current
+9;;Chainring Bolts;Silver;;;NA;;;;;;Current
+10;;Chainring Nut;Silver;;;NA;;;;;;Current
+11;;Chainring;Black;;;NA;;;;;;Current
+21;;Freewheel;Silver;;;NA;;;;;;Current
+32;;Front Derailleur Cage;Silver;;;NA;;;;;;Current
+33;;Front Derailleur Linkage;Silver;;;NA;;;;;;Current
+140;;Lock Ring;Silver;;;NA;;;;;;Current
+209;;Rear Derailleur Cage;Silver;;;NA;;;;;;Current
+223;19;AWC Logo Cap;Multi;£8,6442;;NA;S;£5,1865;;U;Cycling Cap;
+224;19;AWC Logo Cap;Multi;£8,6442;;NA;S;£5,1865;;U;Cycling Cap;
+225;19;AWC Logo Cap;Multi;£8,99;;NA;S;£5,394;;U;Cycling Cap;Current
+212;31;Sport-100 Helmet, Red;Red;£33,6442;;NA;S;£20,1865;;;Sport-100;
+213;31;Sport-100 Helmet, Red;Red;£33,6442;;NA;S;£20,1865;;;Sport-100;
+214;31;Sport-100 Helmet, Red;Red;£34,99;;NA;S;£20,994;;;Sport-100;Current
+215;31;Sport-100 Helmet, Black;Black;£33,6442;;NA;S;£20,1865;;;Sport-100;
+216;31;Sport-100 Helmet, Black;Black;£33,6442;;NA;S;£20,1865;;;Sport-100;
+217;31;Sport-100 Helmet, Black;Black;£34,99;;NA;S;£20,994;;;Sport-100;Current
+220;31;Sport-100 Helmet, Blue;Blue;£33,6442;;NA;S;£20,1865;;;Sport-100;
+221;31;Sport-100 Helmet, Blue;Blue;£33,6442;;NA;S;£20,1865;;;Sport-100;
+222;31;Sport-100 Helmet, Blue;Blue;£34,99;;NA;S;£20,994;;;Sport-100;Current
+391;10;LL Fork;NA;£148,22;;NA;;£88,932;L;;LL Fork;
+392;10;ML Fork;NA;£175,49;;NA;;£105,294;M;;ML Fork;
+393;10;HL Fork;NA;£229,49;;NA;;£137,694;H;;HL Fork;
+394;11;LL Headset;NA;£34,2;;NA;;£20,52;L;;LL Headset;
+395;11;ML Headset;NA;£102,29;;NA;;£61,374;M;;ML Headset;
+396;11;HL Headset;NA;£124,73;;NA;;£74,838;H;;HL Headset;
+397;4;LL Mountain Handlebars;NA;£40,4909;;NA;M;£24,2945;L;;LL Mountain Handlebars;
+398;4;LL Mountain Handlebars;NA;£44,54;;NA;M;£26,724;L;;LL Mountain Handlebars;Current
+399;4;ML Mountain Handlebars;NA;£56,2909;;NA;M;£33,7745;M;;ML Mountain Handlebars;
+400;4;ML Mountain Handlebars;NA;£61,92;;NA;M;£37,152;M;;ML Mountain Handlebars;Current
+401;4;HL Mountain Handlebars;NA;£109,3364;;NA;M;£65,6018;H;;HL Mountain Handlebars;
+402;4;HL Mountain Handlebars;NA;£120,27;;NA;M;£72,162;H;;HL Mountain Handlebars;Current
+403;4;LL Road Handlebars;NA;£40,4909;;NA;R;£24,2945;L;;LL Road Handlebars;
+404;4;LL Road Handlebars;NA;£44,54;;NA;R;£26,724;L;;LL Road Handlebars;Current
+405;4;ML Road Handlebars;NA;£56,2909;;NA;R;£33,7745;M;;ML Road Handlebars;
+406;4;ML Road Handlebars;NA;£61,92;;NA;R;£37,152;M;;ML Road Handlebars;Current
+407;4;HL Road Handlebars;NA;£109,3364;;NA;R;£65,6018;H;;HL Road Handlebars;
+408;4;HL Road Handlebars;NA;£120,27;;NA;R;£72,162;H;;HL Road Handlebars;Current
+410;17;LL Mountain Front Wheel;Black;£60,745;;NA;M;£36,447;L;;LL Mountain Front Wheel;
+411;17;ML Mountain Front Wheel;Black;£209,025;;NA;M;£125,415;M;;ML Mountain Front Wheel;
+412;17;HL Mountain Front Wheel;Black;£300,215;;NA;M;£180,129;H;;HL Mountain Front Wheel;
+416;17;Touring Front Wheel;Black;£218,01;;NA;T;£130,806;;;Touring Front Wheel;
+419;17;LL Mountain Rear Wheel;Black;£87,745;;NA;M;£52,647;L;;LL Mountain Rear Wheel;
+420;17;ML Mountain Rear Wheel;Black;£236,025;;NA;M;£141,615;M;;ML Mountain Rear Wheel;
+421;17;HL Mountain Rear Wheel;Black;£327,215;;NA;M;£196,329;H;;HL Mountain Rear Wheel;
+425;17;Touring Rear Wheel;Black;£245,01;;NA;T;£147,006;;;Touring Rear Wheel;
+446;35;Touring-Panniers, Large;Grey;£125,;;NA;T;£75,;;;Touring-Panniers;
+447;34;Cable Lock;NA;£25,;;NA;S;£15,;;;Cable Lock;
+448;36;Minipump;NA;£19,99;;NA;S;£11,994;;;Minipump;
+449;36;Mountain Pump;NA;£24,99;;NA;M;£14,994;;;Mountain Pump;
+450;33;Taillights - Battery-Powered;NA;£13,99;;NA;R;£8,394;;;Taillight;
+451;33;Headlights - Dual-Beam;NA;£34,99;;NA;R;£20,994;;;Headlights - Dual-Beam;
+452;33;Headlights - Weatherproof;NA;£44,99;;NA;R;£26,994;;;Headlights - Weatherproof;
+477;28;Water Bottle - 30 oz.;NA;£4,99;;NA;S;£2,994;;;Water Bottle;Current
+478;28;Mountain Bottle Cage;NA;£9,99;;NA;M;£5,994;;;Mountain Bottle Cage;Current
+479;28;Road Bottle Cage;NA;£8,99;;NA;R;£5,394;;;Road Bottle Cage;Current
+480;37;Patch Kit/8 Patches;NA;£2,29;;NA;S;£1,374;;;Patch kit;Current
+483;26;Hitch Rack - 4-Bike;NA;£120,;;NA;S;£72,;;;Hitch Rack - 4-Bike;Current
+484;29;Bike Wash - Dissolver;NA;£7,95;;NA;S;£4,77;;;Bike Wash;Current
+485;30;Fender Set - Mountain;NA;£21,98;;NA;M;£13,188;;;Fender Set - Mountain;Current
+486;27;All-Purpose Bike Stand;NA;£159,;;NA;M;£95,4;;;All-Purpose Bike Stand;Current
+515;15;LL Mountain Seat/Saddle;NA;£27,12;;NA;M;£16,272;L;;LL Mountain Seat/Saddle 2;Current
+516;15;ML Mountain Seat/Saddle;NA;£39,14;;NA;M;£23,484;M;;ML Mountain Seat/Saddle 2;Current
+517;15;HL Mountain Seat/Saddle;NA;£52,64;;NA;M;£31,584;H;;HL Mountain Seat/Saddle 2;Current
+518;15;LL Road Seat/Saddle;NA;£27,12;;NA;R;£16,272;L;;LL Road Seat/Saddle 1;Current
+519;15;ML Road Seat/Saddle;NA;£39,14;;NA;T;£23,484;M;;ML Road Seat/Saddle 2;Current
+520;15;HL Road Seat/Saddle;NA;£52,64;;NA;R;£31,584;H;;HL Road Seat/Saddle 2;Current
+521;15;LL Touring Seat/Saddle;NA;£27,12;;NA;T;£16,272;L;;LL Touring Seat/Saddle;Current
+522;15;ML Touring Seat/Saddle;NA;£39,14;;NA;T;£23,484;M;;ML Touring Seat/Saddle;Current
+523;15;HL Touring Seat/Saddle;NA;£52,64;;NA;T;£31,584;H;;HL Touring Seat/Saddle;Current
+528;37;Mountain Tire Tube;NA;£4,99;;NA;M;£2,994;;;Mountain Tire Tube;Current
+529;37;Road Tire Tube;NA;£3,99;;NA;R;£2,394;;;Road Tire Tube;Current
+530;37;Touring Tire Tube;NA;£4,99;;NA;T;£2,994;;;Touring Tire Tube;Current
+535;37;LL Mountain Tire;NA;£24,99;;NA;M;£14,994;L;;LL Mountain Tire;Current
+536;37;ML Mountain Tire;NA;£29,99;;NA;M;£17,994;M;;ML Mountain Tire;Current
+537;37;HL Mountain Tire;NA;£35,;;NA;M;£21,;H;;HL Mountain Tire;Current
+538;37;LL Road Tire;NA;£21,49;;NA;R;£12,894;L;;LL Road Tire;Current
+539;37;ML Road Tire;NA;£24,99;;NA;R;£14,994;M;;ML Road Tire;Current
+540;37;HL Road Tire;NA;£32,6;;NA;R;£19,56;H;;HL Road Tire;Current
+541;37;Touring Tire;NA;£28,99;;NA;T;£17,394;;;Touring Tire;Current
+548;13;Touring Pedal;Silver/Black;£80,99;;NA;T;£48,594;;;Touring Pedal;Current
+553;4;LL Touring Handlebars;NA;£46,09;;NA;T;£27,654;L;;LL Touring Handlebars;Current
+554;4;HL Touring Handlebars;NA;£91,57;;NA;T;£54,942;H;;HL Touring Handlebars;Current
+559;7;Chain;Silver;£20,24;;NA;;£12,144;;;Chain;Current
+218;23;Mountain Bike Socks, M;White;£9,5;M;M;M;£5,7;;U;Mountain Bike Socks;
+219;23;Mountain Bike Socks, L;White;£9,5;L;L;M;£5,7;;U;Mountain Bike Socks;
+226;21;Long-Sleeve Logo Jersey, S;Multi;£48,0673;S;S;S;£28,8404;;U;Long-Sleeve Logo Jersey;
+227;21;Long-Sleeve Logo Jersey, S;Multi;£48,0673;S;S;S;£28,8404;;U;Long-Sleeve Logo Jersey;
+228;21;Long-Sleeve Logo Jersey, S;Multi;£49,99;S;S;S;£29,994;;U;Long-Sleeve Logo Jersey;Current
+229;21;Long-Sleeve Logo Jersey, M;Multi;£48,0673;M;M;S;£28,8404;;U;Long-Sleeve Logo Jersey;
+230;21;Long-Sleeve Logo Jersey, M;Multi;£48,0673;M;M;S;£28,8404;;U;Long-Sleeve Logo Jersey;
+231;21;Long-Sleeve Logo Jersey, M;Multi;£49,99;M;M;S;£29,994;;U;Long-Sleeve Logo Jersey;Current
+232;21;Long-Sleeve Logo Jersey, L;Multi;£48,0673;L;L;S;£28,8404;;U;Long-Sleeve Logo Jersey;
+233;21;Long-Sleeve Logo Jersey, L;Multi;£48,0673;L;L;S;£28,8404;;U;Long-Sleeve Logo Jersey;
+234;21;Long-Sleeve Logo Jersey, L;Multi;£49,99;L;L;S;£29,994;;U;Long-Sleeve Logo Jersey;Current
+235;21;Long-Sleeve Logo Jersey, XL;Multi;£48,0673;XL;XL;S;£28,8404;;U;Long-Sleeve Logo Jersey;
+236;21;Long-Sleeve Logo Jersey, XL;Multi;£48,0673;XL;XL;S;£28,8404;;U;Long-Sleeve Logo Jersey;
+237;21;Long-Sleeve Logo Jersey, XL;Multi;£49,99;XL;XL;S;£29,994;;U;Long-Sleeve Logo Jersey;Current
+445;22;Men's Sports Shorts, S;Black;£59,99;S;S;S;£35,994;;M;Men's Sports Shorts;
+453;22;Men's Sports Shorts, M;Black;£59,99;M;M;S;£35,994;;M;Men's Sports Shorts;
+454;22;Men's Sports Shorts, L;Black;£59,99;L;L;S;£35,994;;M;Men's Sports Shorts;
+455;22;Men's Sports Shorts, XL;Black;£59,99;XL;XL;S;£35,994;;M;Men's Sports Shorts;
+456;24;Women's Tights, S;Black;£74,99;S;S;S;£44,994;;W;Women's Tights;
+457;24;Women's Tights, M;Black;£74,99;M;M;S;£44,994;;W;Women's Tights;
+458;24;Women's Tights, L;Black;£74,99;L;L;S;£44,994;;W;Women's Tights;
+459;18;Men's Bib-Shorts, S;Multi;£89,99;S;S;S;£53,994;;M;Men's Bib-Shorts;
+460;18;Men's Bib-Shorts, M;Multi;£89,99;M;M;S;£53,994;;M;Men's Bib-Shorts;
+461;18;Men's Bib-Shorts, L;Multi;£89,99;L;L;S;£53,994;;M;Men's Bib-Shorts;
+462;20;Half-Finger Gloves, S;Black;£23,5481;S;S;S;£14,1289;;U;Half-Finger Gloves;
+463;20;Half-Finger Gloves, S;Black;£24,49;S;S;S;£14,694;;U;Half-Finger Gloves;Current
+464;20;Half-Finger Gloves, M;Black;£23,5481;M;M;S;£14,1289;;U;Half-Finger Gloves;
+465;20;Half-Finger Gloves, M;Black;£24,49;M;M;S;£14,694;;U;Half-Finger Gloves;Current
+466;20;Half-Finger Gloves, L;Black;£23,5481;L;L;S;£14,1289;;U;Half-Finger Gloves;
+467;20;Half-Finger Gloves, L;Black;£24,49;L;L;S;£14,694;;U;Half-Finger Gloves;Current
+468;20;Full-Finger Gloves, S;Black;£37,99;S;S;M;£22,794;;U;Full-Finger Gloves;
+469;20;Full-Finger Gloves, M;Black;£37,99;M;M;M;£22,794;;U;Full-Finger Gloves;
+470;20;Full-Finger Gloves, L;Black;£37,99;L;L;M;£22,794;;U;Full-Finger Gloves;
+471;25;Classic Vest, S;Blue;£63,5;S;S;S;£38,1;;U;Classic Vest;Current
+472;25;Classic Vest, M;Blue;£63,5;M;M;S;£38,1;;U;Classic Vest;Current
+473;25;Classic Vest, L;Blue;£63,5;L;L;S;£38,1;;U;Classic Vest;Current
+474;22;Women's Mountain Shorts, S;Black;£69,99;S;S;M;£41,994;;W;Women's Mountain Shorts;Current
+475;22;Women's Mountain Shorts, M;Black;£69,99;M;M;M;£41,994;;W;Women's Mountain Shorts;Current
+476;22;Women's Mountain Shorts, L;Black;£69,99;L;L;M;£41,994;;W;Women's Mountain Shorts;Current
+481;23;Racing Socks, M;White;£8,99;M;M;R;£5,394;;U;Racing Socks;Current
+482;23;Racing Socks, L;White;£8,99;L;L;R;£5,394;;U;Racing Socks;Current
+487;32;Hydration Pack - 70 oz.;Silver;£54,99;70;70;S;£32,994;;;Hydration Pack;Current
+488;21;Short-Sleeve Classic Jersey, S;Yellow;£53,99;S;S;S;£32,394;;U;Short-Sleeve Classic Jersey;Current
+489;21;Short-Sleeve Classic Jersey, M;Yellow;£53,99;M;M;S;£32,394;;U;Short-Sleeve Classic Jersey;Current
+490;21;Short-Sleeve Classic Jersey, L;Yellow;£53,99;L;L;S;£32,394;;U;Short-Sleeve Classic Jersey;Current
+491;21;Short-Sleeve Classic Jersey, XL;Yellow;£53,99;XL;XL;S;£32,394;;U;Short-Sleeve Classic Jersey;Current
+180;;LL Mountain Rim;NA;;;NA;;;L;;;Current
+181;;ML Mountain Rim;NA;;;NA;;;M;;;Current
+182;;HL Mountain Rim;NA;;;NA;;;;;;Current
+183;;LL Road Rim;NA;;;NA;;;L;;;Current
+184;;ML Road Rim;NA;;;NA;;;M;;;Current
+185;;HL Road Rim;NA;;;NA;;;;;;Current
+186;;Touring Rim;NA;;;NA;;;;;;Current
+413;17;LL Road Front Wheel;Black;£85,565;;NA;R;£51,339;L;;LL Road Front Wheel;
+414;17;ML Road Front Wheel;Black;£248,385;;NA;R;£149,031;M;;ML Road Front Wheel;
+415;17;HL Road Front Wheel;Black;£330,06;;NA;R;£198,036;H;;HL Road Front Wheel;
+422;17;LL Road Rear Wheel;Black;£112,565;;NA;R;£67,539;L;;LL Road Rear Wheel;
+423;17;ML Road Rear Wheel;Black;£275,385;;NA;R;£165,231;M;;ML Road Rear Wheel;
+424;17;HL Road Rear Wheel;Black;£357,06;;NA;R;£214,236;H;;HL Road Rear Wheel;
+501;9;Rear Derailleur;Silver;£121,46;;NA;;£72,876;;;Rear Derailleur;Current
+514;6;Rear Brakes;Silver;£106,5;;NA;;£63,9;;;Rear Brakes;Current
+542;13;LL Mountain Pedal;Silver/Black;£40,49;;NA;M;£24,294;L;;LL Mountain Pedal;Current
+543;13;ML Mountain Pedal;Silver/Black;£62,09;;NA;M;£37,254;M;;ML Mountain Pedal;Current
+544;13;HL Mountain Pedal;Silver/Black;£80,99;;NA;M;£48,594;H;;HL Mountain Pedal;Current
+545;13;LL Road Pedal;Silver/Black;£40,49;;NA;R;£24,294;L;;LL Road Pedal;Current
+546;13;ML Road Pedal;Silver/Black;£62,09;;NA;R;£37,254;M;;ML Road Pedal;Current
+547;13;HL Road Pedal;Silver/Black;£80,99;;NA;R;£48,594;H;;HL Road Pedal;Current
+552;9;Front Derailleur;Silver;£91,49;;NA;;£54,894;;;Front Derailleur;Current
+555;6;Front Brakes;Silver;£106,5;;NA;;£63,9;;;Front Brakes;Current
+556;8;LL Crankset;Black;£175,49;;NA;;£105,294;L;;LL Crankset;Current
+557;8;ML Crankset;Black;£256,49;;NA;;£153,894;M;;ML Crankset;Current
+558;8;HL Crankset;Black;£404,99;;NA;;£242,994;H;;HL Crankset;Current
+601;5;LL Bottom Bracket;NA;£53,99;;NA;;£32,394;L;;LL Bottom Bracket;Current
+602;5;ML Bottom Bracket;NA;£101,24;;NA;;£60,744;M;;ML Bottom Bracket;Current
+603;5;HL Bottom Bracket;NA;£121,49;;NA;;£72,894;H;;HL Bottom Bracket;Current
+381;2;Road-550-W Yellow, 38;Yellow;£1.000,4375;38;38-40 CM;R;£600,2625;M;W;Road-550-W;
+382;2;Road-550-W Yellow, 38;Yellow;£1.120,49;38;38-40 CM;R;£672,294;M;W;Road-550-W;Current
+383;2;Road-550-W Yellow, 40;Yellow;£1.000,4375;40;38-40 CM;R;£600,2625;M;W;Road-550-W;
+384;2;Road-550-W Yellow, 40;Yellow;£1.120,49;40;38-40 CM;R;£672,294;M;W;Road-550-W;Current
+385;2;Road-550-W Yellow, 42;Yellow;£1.000,4375;42;42-46 CM;R;£600,2625;M;W;Road-550-W;
+386;2;Road-550-W Yellow, 42;Yellow;£1.120,49;42;42-46 CM;R;£672,294;M;W;Road-550-W;Current
+387;2;Road-550-W Yellow, 44;Yellow;£1.000,4375;44;42-46 CM;R;£600,2625;M;W;Road-550-W;
+388;2;Road-550-W Yellow, 44;Yellow;£1.120,49;44;42-46 CM;R;£672,294;M;W;Road-550-W;Current
+389;2;Road-550-W Yellow, 48;Yellow;£1.000,4375;48;48-52 CM;R;£600,2625;M;W;Road-550-W;
+390;2;Road-550-W Yellow, 48;Yellow;£1.120,49;48;48-52 CM;R;£672,294;M;W;Road-550-W;Current
+417;14;ML Road Frame-W - Yellow, 38;Yellow;£540,7545;38;38-40 CM;R;£324,4527;M;W;ML Road Frame-W;
+418;14;ML Road Frame-W - Yellow, 38;Yellow;£594,83;38;38-40 CM;R;£356,898;M;W;ML Road Frame-W;Current
+429;14;ML Road Frame-W - Yellow, 40;Yellow;£540,7545;40;38-40 CM;R;£324,4527;M;W;ML Road Frame-W;
+430;14;ML Road Frame-W - Yellow, 40;Yellow;£594,83;40;38-40 CM;R;£356,898;M;W;ML Road Frame-W;Current
+431;14;ML Road Frame-W - Yellow, 42;Yellow;£540,7545;42;42-46 CM;R;£324,4527;M;W;ML Road Frame-W;
+432;14;ML Road Frame-W - Yellow, 42;Yellow;£594,83;42;42-46 CM;R;£356,898;M;W;ML Road Frame-W;Current
+433;14;ML Road Frame-W - Yellow, 44;Yellow;£540,7545;44;42-46 CM;R;£324,4527;M;W;ML Road Frame-W;
+434;14;ML Road Frame-W - Yellow, 44;Yellow;£594,83;44;42-46 CM;R;£356,898;M;W;ML Road Frame-W;Current
+435;14;ML Road Frame-W - Yellow, 48;Yellow;£540,7545;48;48-52 CM;R;£324,4527;M;W;ML Road Frame-W;
+436;14;ML Road Frame-W - Yellow, 48;Yellow;£594,83;48;48-52 CM;R;£356,898;M;W;ML Road Frame-W;Current
+511;12;ML Mountain Frame-W - Silver, 40;Silver;£364,09;40;38-40 CM;M;£218,454;M;W;ML Mountain Frame-W;Current
+512;12;ML Mountain Frame-W - Silver, 42;Silver;£364,09;42;42-46 CM;M;£218,454;M;W;ML Mountain Frame-W;Current
+513;12;ML Mountain Frame-W - Silver, 46;Silver;£364,09;46;42-46 CM;M;£218,454;M;W;ML Mountain Frame-W;Current
+549;12;ML Mountain Frame-W - Silver, 38;Silver;£364,09;38;38-40 CM;M;£218,454;M;W;ML Mountain Frame-W;Current
+580;2;Road-350-W Yellow, 40;Yellow;£1.700,99;40;38-40 CM;R;£1.020,594;M;W;Road-350-W;Current
+581;2;Road-350-W Yellow, 42;Yellow;£1.700,99;42;42-46 CM;R;£1.020,594;M;W;Road-350-W;Current
+582;2;Road-350-W Yellow, 44;Yellow;£1.700,99;44;42-46 CM;R;£1.020,594;M;W;Road-350-W;Current
+583;2;Road-350-W Yellow, 48;Yellow;£1.700,99;48;48-52 CM;R;£1.020,594;M;W;Road-350-W;Current
+587;1;Mountain-400-W Silver, 38;Silver;£769,49;38;38-40 CM;M;£461,694;M;W;Mountain-400-W;Current
+588;1;Mountain-400-W Silver, 40;Silver;£769,49;40;38-40 CM;M;£461,694;M;W;Mountain-400-W;Current
+589;1;Mountain-400-W Silver, 42;Silver;£769,49;42;42-46 CM;M;£461,694;M;W;Mountain-400-W;Current
+590;1;Mountain-400-W Silver, 46;Silver;£769,49;46;42-46 CM;M;£461,694;M;W;Mountain-400-W;Current
+288;12;HL Mountain Frame - Silver, 42;Silver;£1.204,3248;42;42-46 CM;M;£722,5949;H;U;HL Mountain Frame;
+289;12;HL Mountain Frame - Silver, 42;Silver;£1.240,4545;42;42-46 CM;M;£744,2727;H;U;HL Mountain Frame;
+290;12;HL Mountain Frame - Silver, 42;Silver;£1.364,5;42;42-46 CM;M;£818,7;H;U;HL Mountain Frame;Current
+291;12;HL Mountain Frame - Silver, 44;Silver;£1.364,5;44;42-46 CM;M;£818,7;H;U;HL Mountain Frame;
+292;12;HL Mountain Frame - Silver, 48;Silver;£1.364,5;48;48-52 CM;M;£818,7;H;U;HL Mountain Frame;
+293;12;HL Mountain Frame - Silver, 46;Silver;£1.204,3248;46;42-46 CM;M;£722,5949;H;U;HL Mountain Frame;
+294;12;HL Mountain Frame - Silver, 46;Silver;£1.240,4545;46;42-46 CM;M;£744,2727;H;U;HL Mountain Frame;
+295;12;HL Mountain Frame - Silver, 46;Silver;£1.364,5;46;42-46 CM;M;£818,7;H;U;HL Mountain Frame;Current
+296;12;HL Mountain Frame - Black, 42;Black;£1.191,1739;42;42-46 CM;M;£714,7043;H;U;HL Mountain Frame;
+297;12;HL Mountain Frame - Black, 42;Black;£1.226,9091;42;42-46 CM;M;£736,1455;H;U;HL Mountain Frame;
+298;12;HL Mountain Frame - Black, 42;Black;£1.349,6;42;42-46 CM;M;£809,76;H;U;HL Mountain Frame;Current
+299;12;HL Mountain Frame - Black, 44;Black;£1.349,6;44;42-46 CM;M;£809,76;H;U;HL Mountain Frame;
+300;12;HL Mountain Frame - Black, 48;Black;£1.349,6;48;48-52 CM;M;£809,76;H;U;HL Mountain Frame;
+301;12;HL Mountain Frame - Black, 46;Black;£1.191,1739;46;42-46 CM;M;£714,7043;H;U;HL Mountain Frame;
+302;12;HL Mountain Frame - Black, 46;Black;£1.226,9091;46;42-46 CM;M;£736,1455;H;U;HL Mountain Frame;
+303;12;HL Mountain Frame - Black, 46;Black;£1.349,6;46;42-46 CM;M;£809,76;H;U;HL Mountain Frame;Current
+304;12;HL Mountain Frame - Black, 38;Black;£1.191,1739;38;38-40 CM;M;£714,7043;H;U;HL Mountain Frame;
+305;12;HL Mountain Frame - Black, 38;Black;£1.226,9091;38;38-40 CM;M;£736,1455;H;U;HL Mountain Frame;
+306;12;HL Mountain Frame - Black, 38;Black;£1.349,6;38;38-40 CM;M;£809,76;H;U;HL Mountain Frame;Current
+307;12;HL Mountain Frame - Silver, 38;Silver;£1.204,3248;38;38-40 CM;M;£722,5949;H;U;HL Mountain Frame;
+308;12;HL Mountain Frame - Silver, 38;Silver;£1.240,4545;38;38-40 CM;M;£744,2727;H;U;HL Mountain Frame;
+309;12;HL Mountain Frame - Silver, 38;Silver;£1.364,5;38;38-40 CM;M;£818,7;H;U;HL Mountain Frame;Current
+344;1;Mountain-100 Silver, 38;Silver;£3.399,99;38;38-40 CM;M;£2.039,994;H;U;Mountain-100;
+345;1;Mountain-100 Silver, 42;Silver;£3.399,99;42;42-46 CM;M;£2.039,994;H;U;Mountain-100;
+346;1;Mountain-100 Silver, 44;Silver;£3.399,99;44;42-46 CM;M;£2.039,994;H;U;Mountain-100;
+347;1;Mountain-100 Silver, 48;Silver;£3.399,99;48;48-52 CM;M;£2.039,994;H;U;Mountain-100;
+348;1;Mountain-100 Black, 38;Black;£3.374,99;38;38-40 CM;M;£2.024,994;H;U;Mountain-100;
+349;1;Mountain-100 Black, 42;Black;£3.374,99;42;42-46 CM;M;£2.024,994;H;U;Mountain-100;
+350;1;Mountain-100 Black, 44;Black;£3.374,99;44;42-46 CM;M;£2.024,994;H;U;Mountain-100;
+351;1;Mountain-100 Black, 48;Black;£3.374,99;48;48-52 CM;M;£2.024,994;H;U;Mountain-100;
+352;1;Mountain-200 Silver, 38;Silver;£2.071,4196;38;38-40 CM;M;£1.242,8518;H;U;Mountain-200;
+353;1;Mountain-200 Silver, 38;Silver;£2.319,99;38;38-40 CM;M;£1.391,994;H;U;Mountain-200;Current
+354;1;Mountain-200 Silver, 42;Silver;£2.071,4196;42;42-46 CM;M;£1.242,8518;H;U;Mountain-200;
+355;1;Mountain-200 Silver, 42;Silver;£2.319,99;42;42-46 CM;M;£1.391,994;H;U;Mountain-200;Current
+356;1;Mountain-200 Silver, 46;Silver;£2.071,4196;46;42-46 CM;M;£1.242,8518;H;U;Mountain-200;
+357;1;Mountain-200 Silver, 46;Silver;£2.319,99;46;42-46 CM;M;£1.391,994;H;U;Mountain-200;Current
+358;1;Mountain-200 Black, 38;Black;£2.049,0982;38;38-40 CM;M;£1.229,4589;H;U;Mountain-200;
+359;1;Mountain-200 Black, 38;Black;£2.294,99;38;38-40 CM;M;£1.376,994;H;U;Mountain-200;Current
+360;1;Mountain-200 Black, 42;Black;£2.049,0982;42;42-46 CM;M;£1.229,4589;H;U;Mountain-200;
+361;1;Mountain-200 Black, 42;Black;£2.294,99;42;42-46 CM;M;£1.376,994;H;U;Mountain-200;Current
+362;1;Mountain-200 Black, 46;Black;£2.049,0982;46;42-46 CM;M;£1.229,4589;H;U;Mountain-200;
+363;1;Mountain-200 Black, 46;Black;£2.294,99;46;42-46 CM;M;£1.376,994;H;U;Mountain-200;Current
+364;1;Mountain-300 Black, 38;Black;£1.079,99;38;38-40 CM;M;£647,994;M;U;Mountain-300;
+365;1;Mountain-300 Black, 40;Black;£1.079,99;40;38-40 CM;M;£647,994;M;U;Mountain-300;
+366;1;Mountain-300 Black, 44;Black;£1.079,99;44;42-46 CM;M;£647,994;M;U;Mountain-300;
+367;1;Mountain-300 Black, 48;Black;£1.079,99;48;48-52 CM;M;£647,994;M;U;Mountain-300;
+409;12;ML Mountain Frame - Black, 38;Black;£348,76;38;38-40 CM;M;£209,256;M;U;ML Mountain Frame-W;
+426;12;ML Mountain Frame - Black, 40;Black;£348,76;40;38-40 CM;M;£209,256;M;U;ML Mountain Frame;
+427;12;ML Mountain Frame - Black, 44;Black;£348,76;44;42-46 CM;M;£209,256;M;U;ML Mountain Frame;
+428;12;ML Mountain Frame - Black, 48;Black;£348,76;48;48-52 CM;M;£209,256;M;U;ML Mountain Frame;
+492;16;HL Touring Frame - Yellow, 60;Yellow;£1.003,91;60;60-62 CM;T;£602,346;H;U;HL Touring Frame;Current
+493;16;LL Touring Frame - Yellow, 62;Yellow;£333,42;62;60-62 CM;T;£200,052;L;U;LL Touring Frame;Current
+494;16;HL Touring Frame - Yellow, 46;Yellow;£1.003,91;46;42-46 CM;T;£602,346;H;U;HL Touring Frame;Current
+495;16;HL Touring Frame - Yellow, 50;Yellow;£1.003,91;50;48-52 CM;T;£602,346;H;U;HL Touring Frame;Current
+496;16;HL Touring Frame - Yellow, 54;Yellow;£1.003,91;54;54-58 CM;T;£602,346;H;U;HL Touring Frame;Current
+497;16;HL Touring Frame - Blue, 46;Blue;£1.003,91;46;42-46 CM;T;£602,346;H;U;HL Touring Frame;Current
+498;16;HL Touring Frame - Blue, 50;Blue;£1.003,91;50;48-52 CM;T;£602,346;H;U;HL Touring Frame;Current
+499;16;HL Touring Frame - Blue, 54;Blue;£1.003,91;54;54-58 CM;T;£602,346;H;U;HL Touring Frame;Current
+500;16;HL Touring Frame - Blue, 60;Blue;£1.003,91;60;60-62 CM;T;£602,346;H;U;HL Touring Frame;Current
+502;16;LL Touring Frame - Blue, 50;Blue;£333,42;50;48-52 CM;T;£200,052;L;U;LL Touring Frame;Current
+503;16;LL Touring Frame - Blue, 54;Blue;£333,42;54;54-58 CM;T;£200,052;L;U;LL Touring Frame;Current
+504;16;LL Touring Frame - Blue, 58;Blue;£333,42;58;54-58 CM;T;£200,052;L;U;LL Touring Frame;Current
+505;16;LL Touring Frame - Blue, 62;Blue;£333,42;62;60-62 CM;T;£200,052;L;U;LL Touring Frame;Current
+506;16;LL Touring Frame - Yellow, 44;Yellow;£333,42;44;42-46 CM;T;£200,052;L;U;LL Touring Frame;Current
+507;16;LL Touring Frame - Yellow, 50;Yellow;£333,42;50;48-52 CM;T;£200,052;L;U;LL Touring Frame;Current
+508;16;LL Touring Frame - Yellow, 54;Yellow;£333,42;54;54-58 CM;T;£200,052;L;U;LL Touring Frame;Current
+509;16;LL Touring Frame - Yellow, 58;Yellow;£333,42;58;54-58 CM;T;£200,052;L;U;LL Touring Frame;Current
+510;16;LL Touring Frame - Blue, 44;Blue;£333,42;44;42-46 CM;T;£200,052;L;U;LL Touring Frame;Current
+524;12;LL Mountain Frame - Silver, 42;Silver;£264,05;42;42-46 CM;M;£158,43;L;U;LL Mountain Frame;Current
+525;12;LL Mountain Frame - Silver, 44;Silver;£264,05;44;42-46 CM;M;£158,43;L;U;LL Mountain Frame;Current
+526;12;LL Mountain Frame - Silver, 48;Silver;£264,05;48;48-52 CM;M;£158,43;L;U;LL Mountain Frame;Current
+527;12;LL Mountain Frame - Silver, 52;Silver;£264,05;52;48-52 CM;M;£158,43;L;U;LL Mountain Frame;Current
+531;12;LL Mountain Frame - Black, 42;Black;£249,79;42;42-46 CM;M;£149,874;L;U;LL Mountain Frame;Current
+532;12;LL Mountain Frame - Black, 44;Black;£249,79;44;42-46 CM;M;£149,874;L;U;LL Mountain Frame;Current
+533;12;LL Mountain Frame - Black, 48;Black;£249,79;48;48-52 CM;M;£149,874;L;U;LL Mountain Frame;Current
+534;12;LL Mountain Frame - Black, 52;Black;£249,79;52;48-52 CM;M;£149,874;L;U;LL Mountain Frame;Current
+550;12;LL Mountain Frame - Black, 40;Black;£249,79;40;38-40 CM;M;£149,874;L;U;LL Mountain Frame;Current
+551;12;LL Mountain Frame - Silver, 40;Silver;£264,05;40;38-40 CM;M;£158,43;L;U;LL Mountain Frame;Current
+560;3;Touring-2000 Blue, 60;Blue;£1.214,85;60;60-62 CM;T;£728,91;M;U;Touring-2000;Current
+561;3;Touring-1000 Yellow, 46;Yellow;£2.384,07;46;42-46 CM;T;£1.430,442;H;U;Touring-1000;Current
+562;3;Touring-1000 Yellow, 50;Yellow;£2.384,07;50;48-52 CM;T;£1.430,442;H;U;Touring-1000;Current
+563;3;Touring-1000 Yellow, 54;Yellow;£2.384,07;54;54-58 CM;T;£1.430,442;H;U;Touring-1000;Current
+564;3;Touring-1000 Yellow, 60;Yellow;£2.384,07;60;60-62 CM;T;£1.430,442;H;U;Touring-1000;Current
+565;3;Touring-3000 Blue, 54;Blue;£742,35;54;54-58 CM;T;£445,41;L;U;Touring-3000;Current
+566;3;Touring-3000 Blue, 58;Blue;£742,35;58;54-58 CM;T;£445,41;L;U;Touring-3000;Current
+567;3;Touring-3000 Blue, 62;Blue;£742,35;62;60-62 CM;T;£445,41;L;U;Touring-3000;Current
+568;3;Touring-3000 Yellow, 44;Yellow;£742,35;44;42-46 CM;T;£445,41;L;U;Touring-3000;Current
+569;3;Touring-3000 Yellow, 50;Yellow;£742,35;50;48-52 CM;T;£445,41;L;U;Touring-3000;Current
+570;3;Touring-3000 Yellow, 54;Yellow;£742,35;54;54-58 CM;T;£445,41;L;U;Touring-3000;Current
+571;3;Touring-3000 Yellow, 58;Yellow;£742,35;58;54-58 CM;T;£445,41;L;U;Touring-3000;Current
+572;3;Touring-3000 Yellow, 62;Yellow;£742,35;62;60-62 CM;T;£445,41;L;U;Touring-3000;Current
+573;3;Touring-1000 Blue, 46;Blue;£2.384,07;46;42-46 CM;T;£1.430,442;H;U;Touring-1000;Current
+574;3;Touring-1000 Blue, 50;Blue;£2.384,07;50;48-52 CM;T;£1.430,442;H;U;Touring-1000;Current
+575;3;Touring-1000 Blue, 54;Blue;£2.384,07;54;54-58 CM;T;£1.430,442;H;U;Touring-1000;Current
+576;3;Touring-1000 Blue, 60;Blue;£2.384,07;60;60-62 CM;T;£1.430,442;H;U;Touring-1000;Current
+577;3;Touring-2000 Blue, 46;Blue;£1.214,85;46;42-46 CM;T;£728,91;M;U;Touring-2000;Current
+578;3;Touring-2000 Blue, 50;Blue;£1.214,85;50;48-52 CM;T;£728,91;M;U;Touring-2000;Current
+579;3;Touring-2000 Blue, 54;Blue;£1.214,85;54;54-58 CM;T;£728,91;M;U;Touring-2000;Current
+585;3;Touring-3000 Blue, 44;Blue;£742,35;44;42-46 CM;T;£445,41;L;U;Touring-3000;Current
+586;3;Touring-3000 Blue, 50;Blue;£742,35;50;48-52 CM;T;£445,41;L;U;Touring-3000;Current
+591;1;Mountain-500 Silver, 40;Silver;£564,99;40;38-40 CM;M;£338,994;L;U;Mountain-500;Current
+592;1;Mountain-500 Silver, 42;Silver;£564,99;42;42-46 CM;M;£338,994;L;U;Mountain-500;Current
+593;1;Mountain-500 Silver, 44;Silver;£564,99;44;42-46 CM;M;£338,994;L;U;Mountain-500;Current
+594;1;Mountain-500 Silver, 48;Silver;£564,99;48;48-52 CM;M;£338,994;L;U;Mountain-500;Current
+595;1;Mountain-500 Silver, 52;Silver;£564,99;52;48-52 CM;M;£338,994;L;U;Mountain-500;Current
+596;1;Mountain-500 Black, 40;Black;£539,99;40;38-40 CM;M;£323,994;L;U;Mountain-500;Current
+597;1;Mountain-500 Black, 42;Black;£539,99;42;42-46 CM;M;£323,994;L;U;Mountain-500;Current
+598;1;Mountain-500 Black, 44;Black;£539,99;44;42-46 CM;M;£323,994;L;U;Mountain-500;Current
+599;1;Mountain-500 Black, 48;Black;£539,99;48;48-52 CM;M;£323,994;L;U;Mountain-500;Current
+600;1;Mountain-500 Black, 52;Black;£539,99;52;48-52 CM;M;£323,994;L;U;Mountain-500;Current
+210;14;HL Road Frame - Black, 58;Black;;58;54-58 CM;R;;H;U;HL Road Frame;Current
+211;14;HL Road Frame - Red, 58;Red;;58;54-58 CM;R;;H;U;HL Road Frame;Current
+238;14;HL Road Frame - Red, 62;Red;£1.263,4598;62;60-62 CM;R;£758,0759;H;U;HL Road Frame;
+239;14;HL Road Frame - Red, 62;Red;£1.301,3636;62;60-62 CM;R;£780,8182;H;U;HL Road Frame;
+240;14;HL Road Frame - Red, 62;Red;£1.431,5;62;60-62 CM;R;£858,9;H;U;HL Road Frame;Current
+241;14;HL Road Frame - Red, 44;Red;£1.263,4598;44;42-46 CM;R;£758,0759;H;U;HL Road Frame;
+242;14;HL Road Frame - Red, 44;Red;£1.301,3636;44;42-46 CM;R;£780,8182;H;U;HL Road Frame;
+243;14;HL Road Frame - Red, 44;Red;£1.431,5;44;42-46 CM;R;£858,9;H;U;HL Road Frame;Current
+244;14;HL Road Frame - Red, 48;Red;£1.263,4598;48;48-52 CM;R;£758,0759;H;U;HL Road Frame;
+245;14;HL Road Frame - Red, 48;Red;£1.301,3636;48;48-52 CM;R;£780,8182;H;U;HL Road Frame;
+246;14;HL Road Frame - Red, 48;Red;£1.431,5;48;48-52 CM;R;£858,9;H;U;HL Road Frame;Current
+247;14;HL Road Frame - Red, 52;Red;£1.263,4598;52;48-52 CM;R;£758,0759;H;U;HL Road Frame;
+248;14;HL Road Frame - Red, 52;Red;£1.301,3636;52;48-52 CM;R;£780,8182;H;U;HL Road Frame;
+249;14;HL Road Frame - Red, 52;Red;£1.431,5;52;48-52 CM;R;£858,9;H;U;HL Road Frame;Current
+250;14;HL Road Frame - Red, 56;Red;£1.263,4598;56;54-58 CM;R;£758,0759;H;U;HL Road Frame;
+251;14;HL Road Frame - Red, 56;Red;£1.301,3636;56;54-58 CM;R;£780,8182;H;U;HL Road Frame;
+252;14;HL Road Frame - Red, 56;Red;£1.431,5;56;54-58 CM;R;£858,9;H;U;HL Road Frame;Current
+253;14;LL Road Frame - Black, 58;Black;£297,6346;58;54-58 CM;R;£178,5808;L;U;LL Road Frame;
+254;14;LL Road Frame - Black, 58;Black;£306,5636;58;54-58 CM;R;£183,9382;L;U;LL Road Frame;
+255;14;LL Road Frame - Black, 58;Black;£337,22;58;54-58 CM;R;£202,332;L;U;LL Road Frame;Current
+256;14;LL Road Frame - Black, 60;Black;£297,6346;60;60-62 CM;R;£178,5808;L;U;LL Road Frame;
+257;14;LL Road Frame - Black, 60;Black;£306,5636;60;60-62 CM;R;£183,9382;L;U;LL Road Frame;
+258;14;LL Road Frame - Black, 60;Black;£337,22;60;60-62 CM;R;£202,332;L;U;LL Road Frame;Current
+259;14;LL Road Frame - Black, 62;Black;£297,6346;62;60-62 CM;R;£178,5808;L;U;LL Road Frame;
+260;14;LL Road Frame - Black, 62;Black;£306,5636;62;60-62 CM;R;£183,9382;L;U;LL Road Frame;
+261;14;LL Road Frame - Black, 62;Black;£337,22;62;60-62 CM;R;£202,332;L;U;LL Road Frame;Current
+262;14;LL Road Frame - Red, 44;Red;£306,5636;44;42-46 CM;R;£183,9382;L;U;LL Road Frame;
+263;14;LL Road Frame - Red, 44;Red;£337,22;44;42-46 CM;R;£202,332;L;U;LL Road Frame;
+264;14;LL Road Frame - Red, 48;Red;£306,5636;48;48-52 CM;R;£183,9382;L;U;LL Road Frame;
+265;14;LL Road Frame - Red, 48;Red;£337,22;48;48-52 CM;R;£202,332;L;U;LL Road Frame;
+266;14;LL Road Frame - Red, 52;Red;£306,5636;52;48-52 CM;R;£183,9382;L;U;LL Road Frame;
+267;14;LL Road Frame - Red, 52;Red;£337,22;52;48-52 CM;R;£202,332;L;U;LL Road Frame;
+268;14;LL Road Frame - Red, 58;Red;£306,5636;58;54-58 CM;R;£183,9382;L;U;LL Road Frame;
+269;14;LL Road Frame - Red, 58;Red;£337,22;58;54-58 CM;R;£202,332;L;U;LL Road Frame;
+270;14;LL Road Frame - Red, 60;Red;£306,5636;60;60-62 CM;R;£183,9382;L;U;LL Road Frame;
+271;14;LL Road Frame - Red, 60;Red;£337,22;60;60-62 CM;R;£202,332;L;U;LL Road Frame;
+272;14;LL Road Frame - Red, 62;Red;£306,5636;62;60-62 CM;R;£183,9382;L;U;LL Road Frame;
+273;14;LL Road Frame - Red, 62;Red;£337,22;62;60-62 CM;R;£202,332;L;U;LL Road Frame;
+274;14;ML Road Frame - Red, 44;Red;£594,83;44;42-46 CM;R;£356,898;M;U;ML Road Frame;
+275;14;ML Road Frame - Red, 48;Red;£594,83;48;48-52 CM;R;£356,898;M;U;ML Road Frame;
+276;14;ML Road Frame - Red, 52;Red;£594,83;52;48-52 CM;R;£356,898;M;U;ML Road Frame;
+277;14;ML Road Frame - Red, 58;Red;£594,83;58;54-58 CM;R;£356,898;M;U;ML Road Frame;
+278;14;ML Road Frame - Red, 60;Red;£594,83;60;60-62 CM;R;£356,898;M;U;ML Road Frame;
+279;14;LL Road Frame - Black, 44;Black;£297,6346;44;42-46 CM;R;£178,5808;L;U;LL Road Frame;
+280;14;LL Road Frame - Black, 44;Black;£306,5636;44;42-46 CM;R;£183,9382;L;U;LL Road Frame;
+281;14;LL Road Frame - Black, 44;Black;£337,22;44;42-46 CM;R;£202,332;L;U;LL Road Frame;Current
+282;14;LL Road Frame - Black, 48;Black;£297,6346;48;48-52 CM;R;£178,5808;L;U;LL Road Frame;
+283;14;LL Road Frame - Black, 48;Black;£306,5636;48;48-52 CM;R;£183,9382;L;U;LL Road Frame;
+284;14;LL Road Frame - Black, 48;Black;£337,22;48;48-52 CM;R;£202,332;L;U;LL Road Frame;Current
+285;14;LL Road Frame - Black, 52;Black;£297,6346;52;48-52 CM;R;£178,5808;L;U;LL Road Frame;
+286;14;LL Road Frame - Black, 52;Black;£306,5636;52;48-52 CM;R;£183,9382;L;U;LL Road Frame;
+287;14;LL Road Frame - Black, 52;Black;£337,22;52;48-52 CM;R;£202,332;L;U;LL Road Frame;Current
+310;2;Road-150 Red, 62;Red;£3.578,27;62;60-62 CM;R;£2.146,962;H;U;Road-150;
+311;2;Road-150 Red, 44;Red;£3.578,27;44;42-46 CM;R;£2.146,962;H;U;Road-150;
+312;2;Road-150 Red, 48;Red;£3.578,27;48;48-52 CM;R;£2.146,962;H;U;Road-150;
+313;2;Road-150 Red, 52;Red;£3.578,27;52;48-52 CM;R;£2.146,962;H;U;Road-150;
+314;2;Road-150 Red, 56;Red;£3.578,27;56;54-58 CM;R;£2.146,962;H;U;Road-150;
+315;2;Road-450 Red, 58;Red;£1.457,99;58;54-58 CM;R;£874,794;M;U;Road-450;
+316;2;Road-450 Red, 60;Red;£1.457,99;60;60-62 CM;R;£874,794;M;U;Road-450;
+317;2;Road-450 Red, 44;Red;£1.457,99;44;42-46 CM;R;£874,794;M;U;Road-450;
+318;2;Road-450 Red, 48;Red;£1.457,99;48;48-52 CM;R;£874,794;M;U;Road-450;
+319;2;Road-450 Red, 52;Red;£1.457,99;52;48-52 CM;R;£874,794;M;U;Road-450;
+320;2;Road-650 Red, 58;Red;£699,0982;58;54-58 CM;R;£419,4589;L;U;Road-650;
+321;2;Road-650 Red, 58;Red;£782,99;58;54-58 CM;R;£469,794;L;U;Road-650;
+322;2;Road-650 Red, 60;Red;£699,0982;60;60-62 CM;R;£419,4589;L;U;Road-650;
+323;2;Road-650 Red, 60;Red;£782,99;60;60-62 CM;R;£469,794;L;U;Road-650;
+324;2;Road-650 Red, 62;Red;£699,0982;62;60-62 CM;R;£419,4589;L;U;Road-650;
+325;2;Road-650 Red, 62;Red;£782,99;62;60-62 CM;R;£469,794;L;U;Road-650;
+326;2;Road-650 Red, 44;Red;£699,0982;44;42-46 CM;R;£419,4589;L;U;Road-650;
+327;2;Road-650 Red, 44;Red;£782,99;44;42-46 CM;R;£469,794;L;U;Road-650;
+328;2;Road-650 Red, 48;Red;£699,0982;48;48-52 CM;R;£419,4589;L;U;Road-650;
+329;2;Road-650 Red, 48;Red;£782,99;48;48-52 CM;R;£469,794;L;U;Road-650;
+330;2;Road-650 Red, 52;Red;£699,0982;52;48-52 CM;R;£419,4589;L;U;Road-650;
+331;2;Road-650 Red, 52;Red;£782,99;52;48-52 CM;R;£469,794;L;U;Road-650;
+332;2;Road-650 Black, 58;Black;£699,0982;58;54-58 CM;R;£419,4589;L;U;Road-650;
+333;2;Road-650 Black, 58;Black;£782,99;58;54-58 CM;R;£469,794;L;U;Road-650;
+334;2;Road-650 Black, 60;Black;£699,0982;60;60-62 CM;R;£419,4589;L;U;Road-650;
+335;2;Road-650 Black, 60;Black;£782,99;60;60-62 CM;R;£469,794;L;U;Road-650;
+336;2;Road-650 Black, 62;Black;£699,0982;62;60-62 CM;R;£419,4589;L;U;Road-650;
+337;2;Road-650 Black, 62;Black;£782,99;62;60-62 CM;R;£469,794;L;U;Road-650;
+338;2;Road-650 Black, 44;Black;£699,0982;44;42-46 CM;R;£419,4589;L;U;Road-650;
+339;2;Road-650 Black, 44;Black;£782,99;44;42-46 CM;R;£469,794;L;U;Road-650;
+340;2;Road-650 Black, 48;Black;£699,0982;48;48-52 CM;R;£419,4589;L;U;Road-650;
+341;2;Road-650 Black, 48;Black;£782,99;48;48-52 CM;R;£469,794;L;U;Road-650;
+342;2;Road-650 Black, 52;Black;£699,0982;52;48-52 CM;R;£419,4589;L;U;Road-650;
+343;2;Road-650 Black, 52;Black;£782,99;52;48-52 CM;R;£469,794;L;U;Road-650;
+368;2;Road-250 Red, 44;Red;£2.443,35;44;42-46 CM;R;£1.466,01;H;U;Road-250;
+369;2;Road-250 Red, 48;Red;£2.443,35;48;48-52 CM;R;£1.466,01;H;U;Road-250;
+370;2;Road-250 Red, 52;Red;£2.443,35;52;48-52 CM;R;£1.466,01;H;U;Road-250;
+371;2;Road-250 Red, 58;Red;£2.181,5625;58;54-58 CM;R;£1.308,9375;H;U;Road-250;
+372;2;Road-250 Red, 58;Red;£2.443,35;58;54-58 CM;R;£1.466,01;H;U;Road-250;Current
+373;2;Road-250 Black, 44;Black;£2.181,5625;44;42-46 CM;R;£1.308,9375;H;U;Road-250;
+374;2;Road-250 Black, 44;Black;£2.443,35;44;42-46 CM;R;£1.466,01;H;U;Road-250;Current
+375;2;Road-250 Black, 48;Black;£2.181,5625;48;48-52 CM;R;£1.308,9375;H;U;Road-250;
+376;2;Road-250 Black, 48;Black;£2.443,35;48;48-52 CM;R;£1.466,01;H;U;Road-250;Current
+377;2;Road-250 Black, 52;Black;£2.181,5625;52;48-52 CM;R;£1.308,9375;H;U;Road-250;
+378;2;Road-250 Black, 52;Black;£2.443,35;52;48-52 CM;R;£1.466,01;H;U;Road-250;Current
+379;2;Road-250 Black, 58;Black;£2.181,5625;58;54-58 CM;R;£1.308,9375;H;U;Road-250;
+380;2;Road-250 Black, 58;Black;£2.443,35;58;54-58 CM;R;£1.466,01;H;U;Road-250;Current
+437;14;HL Road Frame - Black, 62;Black;£1.301,3636;62;60-62 CM;R;£780,8182;H;U;HL Road Frame;
+438;14;HL Road Frame - Black, 62;Black;£1.431,5;62;60-62 CM;R;£858,9;H;U;HL Road Frame;Current
+439;14;HL Road Frame - Black, 44;Black;£1.301,3636;44;42-46 CM;R;£780,8182;H;U;HL Road Frame;
+440;14;HL Road Frame - Black, 44;Black;£1.431,5;44;42-46 CM;R;£858,9;H;U;HL Road Frame;Current
+441;14;HL Road Frame - Black, 48;Black;£1.301,3636;48;48-52 CM;R;£780,8182;H;U;HL Road Frame;
+442;14;HL Road Frame - Black, 48;Black;£1.431,5;48;48-52 CM;R;£858,9;H;U;HL Road Frame;Current
+443;14;HL Road Frame - Black, 52;Black;£1.301,3636;52;48-52 CM;R;£780,8182;H;U;HL Road Frame;
+444;14;HL Road Frame - Black, 52;Black;£1.431,5;52;48-52 CM;R;£858,9;H;U;HL Road Frame;Current
+584;2;Road-750 Black, 58;Black;£539,99;58;54-58 CM;R;£323,994;L;U;Road-750;Current
+604;2;Road-750 Black, 44;Black;£539,99;44;42-46 CM;R;£323,994;L;U;Road-750;Current
+605;2;Road-750 Black, 48;Black;£539,99;48;48-52 CM;R;£323,994;L;U;Road-750;Current
+606;2;Road-750 Black, 52;Black;£539,99;52;48-52 CM;R;£323,994;L;U;Road-750;Current
